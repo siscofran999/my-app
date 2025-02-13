@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.siscofran.applink",
+      "sha256_cert_fingerprints":
+      ["B7:9D:3E:5F:DA:5F:E6:A2:BB:2B:DE:18:43:1B:64:A6:36:7D:43:48:B1:9F:5D:9B:6D:51:D6:F3:F5:16:05:92"]
+    }
+  }]
